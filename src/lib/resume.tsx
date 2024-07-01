@@ -102,10 +102,10 @@ export const SkillsData  = [
     name: "Redux",
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTifmdBhm6i8KHRRMO9XDSytESNl3ywhe867Q&s",
   },
-  {
-    name: "Tailwind Css",
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeKPw4CK4jcH7udsFHZdiB3iIOuI3fUCsxUZosXy4Y1yd25NA-dzCBPrSDIhg1BwObl3w&usqp=CAU",
-  },
+  // {
+  //   name: "Tailwind Css",
+  //   img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeKPw4CK4jcH7udsFHZdiB3iIOuI3fUCsxUZosXy4Y1yd25NA-dzCBPrSDIhg1BwObl3w&usqp=CAU",
+  // },
   {
     name: "Sass",
     img: "https://sass-lang.com/assets/img/styleguide/seal-color-reversed.png",
@@ -210,7 +210,7 @@ export const educationData = [
     description: "  B.Tech- IT 8.0 CGPA"
   },
   {
-    title: "SMC , India",
+    title: "SMC-Ballia , India",
     duration: "",
     description: "12th (78%)"
   },
@@ -220,18 +220,18 @@ export const educationData = [
 
 export const experienceData = [
   {
-    title: "Web Developer Intern",
-    duration: "Jun 2021 - Nov 2021",
-    description: "Developing and maintaining web applications using Javascript, HTML, CSS, and other related technologies. Acquired solid knowledge of JavaScript, HTML, CSS, and React Js for front-end web development. Demonstrated proficiency in JavaScript and React, optimizing code for improved performance in scalable web applications. Implementing responsive design and ensuring cross-browser compatibility."
+    title: "DevOps-Tops",
+    duration: "Jio (Jan 24-Present)",
+    description: "Specialized in Tops-OSS using Azure DevOps. Deployed and managed microservices (cost, billing, t2r etc.) on Kubernetes, utilized SQL for payment and account data retrieval, Worked on CI/CD pipelines, collaborated for seamless service operation, maintained high availability and scalability, improved processes through automation and documented procedures for knowledge sharing."
   },
   {
-    title: "MERN STACK Developer",
-    duration: "Jan 2021 - Feb 2022",
-    description: "Acquired solid knowledge of JavaScript, HTML, CSS, and React Js for front-end web development. Demonstrated proficiency in JavaScript and React, optimizing code for improved performance in scalable web applications. Implementing responsive design and ensuring cross-browser compatibility."
+    title: "Software Developer",
+    duration: "Emsec- Bristol U.K (Feb-Sep 2024 )",
+    description: " Worked on the Shodan’s Clone and Breachwise Development. It's a Hacker's search engine that let’s users search for various types of servers connected to the internet using a variety of filters. We are using MERN Stack technology to build this project. Documentation of Shodan created by myself."
   },
   {
-    title: "Full Stack Developer",
-    duration: "Feb 2023 - Present",
-    description: "Contributed to the implementation of a Feature Product section on the Pampered Chef Product project using Next.js, Scss, and Redux, enhancing web development standards. Developed frontend features for i-Communify web application, a College Club Managing Web App. Leveraged Next.js and Redux Toolkit, and incorporated Bootstrap and SCSS for a responsive design. Demonstrated expertise in sophisticated web development techniques. Achieved a 20% cost reduction for clients through strategic integration of efficient tools, emphasizing commitment to optimizing project outcomes. Designed and implemented a proficient Rest Api using Express.js. Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products. Implementing responsive design and ensuring cross-browser compatibility. Participating in code reviews and providing constructive feedback to other developers."
+    title: "Content Creator",
+    duration: "Youtube (March 2019 - Present)",
+    description: "Helping students to learn about the latest technology. Utilized effective SEO strategies to optimize video titles, descriptions, and tags,resulting in increased discoverability and organic growth"
   }
 ];
